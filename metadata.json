@@ -1,0 +1,6 @@
+{
+  "name": "Arduino Uno Serial Monitor & Osciloscopio",
+  "description": "Monitor de puertos COM para Arduino Uno en Windows con modo texto interactivo, osciloscopio digital multicanal y configuración avanzada de comunicación serie.",
+  "requestFramePermissions": ["serial", "usb"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
